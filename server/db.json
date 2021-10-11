@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Mobile Engineer",
+      "lastName": "bitcoin IRA",
+      "email": "engineer@bitcoinira.com",
+      "city": "Los Angeles",
+      "country": "USA",
+      "dateOfBirth": "01/01/2000",
+      "mobile": "800-245-8789"
+    }
+  ]
+}
